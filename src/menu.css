@@ -1,0 +1,26 @@
+@import "./fonts.css";
+
+.menu-content {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+
+    h2 {
+        font-family: "Cinzel", Arial, Helvetica, sans-serif;
+    }
+
+    ul {
+        font-family: "Go", Arial, Helvetica, sans-serif;
+
+        li {
+            margin: 1.5rem 0;
+        }
+    }
+
+    p {
+        font-family: "Go", Arial, Helvetica, sans-serif;
+        align-self: flex-start;
+    }
+}

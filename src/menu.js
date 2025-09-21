@@ -1,3 +1,5 @@
+import "./menu.css";
+
 const signaturePizzas = [
     "Margherita Classica - Fresh mozzarella, basil, and tomato sauce baked to perfection.",
     "Smoky Pepperoni - A generous layer of spicy pepperoni over melted cheese with a smoky kick.",

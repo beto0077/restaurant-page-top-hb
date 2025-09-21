@@ -1,3 +1,5 @@
+import "./contact.css";
+
 export function createContactPage() {
     const heading = document.createElement("h2");
     const aboutHeading = document.createElement("h3");

@@ -4,4 +4,5 @@ pizza photo => Image by <a href="https://pixabay.com/users/luanpeterson-5279220/
 
 Fonts:
 <a href="https://www.fontsquirrel.com/fonts/cinzel">Cinzel</a>,
-<a href="https://www.fontsquirrel.com/fonts/alex-brush">Alex Brush</a>
+<a href="https://www.fontsquirrel.com/fonts/alex-brush">Alex Brush</a>,
+<a href="https://www.fontsquirrel.com/fonts/go">Go</a>

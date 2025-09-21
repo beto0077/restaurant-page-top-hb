@@ -1,3 +1,4 @@
+import "./home.css"
 import pizzaOvenPhoto from "./pizza-4369001_1920.jpg"
 
 export function createHomePage() {
